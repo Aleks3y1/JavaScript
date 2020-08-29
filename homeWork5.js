@@ -48,4 +48,3 @@ document.querySelector(".chessElem74").innerHTML = "&#9812;";
 document.querySelector(".chessElem75").innerHTML = "&#9815;";
 document.querySelector(".chessElem76").innerHTML = "&#9816;";
 document.querySelector(".chessElem77").innerHTML = "&#9814;";
-
