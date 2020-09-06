@@ -16,3 +16,4 @@ oneX.onclick = f;
 twoX.onclick = x;
 threeX.onclick = z;
 
+// Можно сделать решение, через массив.
