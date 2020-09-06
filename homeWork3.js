@@ -26,7 +26,7 @@ for (var i = 0; i <= 20; i++) {
 
 for (i = 0; i <= 9; console.log(i++)) { }
 
-// Задача 2 и 3
+// Задача 2 и 3.
 
 var arr = [
     {
